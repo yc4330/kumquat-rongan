@@ -1,2 +1,5 @@
-# kumquat-rongan
- Data journalism webpage about the kumquat from Rongan
+# Summary
+ The story is about a kind of kumquat from Rong'an, China which appears in the market in Flushing, NYC. Why should you be surprised by the kumquat? (Because unlike the sour, bitter and tiny kumquats in memory, it shapes as big as an egg, tastes as sweet as a melon, and sells as expensive as a luxuary! These will be represented in charts.) And maybe you will be interested in the origin of this kumquat, a small county where its people rely on its harvest to live a better life, and where I miss the previous visit in last spring. 
+
+## Plans and back-up plans
+I want to use seaborn in python to build a boxplot and stripplot to show the prices of different kinds of kumquats, and highlight and annotate the dots that indicate Rong'an. But if I can't figure out how to add groups inside a facet of stripplot, I'll just use slides to add text to the graph.
